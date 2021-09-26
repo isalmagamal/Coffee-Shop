@@ -1,0 +1,730 @@
+/*media-query*/
+
+
+/*from-1140-t0-1070*/
+@media (max-width:1140px){
+
+.drinks-section2-inner {
+    width: 100%;
+    margin: 0 auto;
+    /*margin-left: -25px;*/
+}
+
+.drink1 , .drink2, .drink3{
+    width: 315px;
+    height: 480px;
+}
+.cappuccino, .latte, .dark-coffe{
+	width: 185px;
+}
+
+.drink1-p, .drink2-p, .drink3-p{
+	font-size: 13px;
+}
+.drink-name{
+	font-size: 30px;
+}
+.get-delivery1, .get-delivery2, .get-delivery3{
+	width: 220px;
+}
+
+}
+
+
+
+/*from-1070-to-1015*/
+@media (max-width:1070px){
+
+/*basrista-party*/
+.forth-section-inner-1 {
+    display: block;
+	width: 98%;
+    margin: 0 auto;
+}
+
+.forth-section-inner1-left{
+	width: 100%;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 0px;
+}
+.forth-section-inner1-right{
+	width: 100%;
+	min-height: 286px;
+	margin-top: -20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 0px;
+}
+.right-inner {
+    margin-top: 0px;
+}
+.right-inner-title-1:after {
+    width: 95%;
+    margin-top: 15px;
+}
+.right-inner-p-1 {
+    width: 380px;
+}
+
+.right-inner-title-2 {
+    margin-top: 0px;
+}
+
+.google-maps-link {
+    float: right;
+    margin-top: -180px;
+    margin-right: 40px;
+}
+.drinks-section2-inner {
+    width: 100%;
+    margin: 0 auto;
+    /*margin-left: -55px;*/
+}
+
+.drink1 , .drink2, .drink3{
+	width: 280px;
+    height: 480px;
+}
+.drink1-p, .drink2-p, .drink3-p {
+    font-size: 12px;
+    width: 230px;
+}
+
+.croissants-img {
+    right: -95px;
+}
+
+.third-section-inner-left-title1 {
+    margin-left: 80px;
+}
+.third-section-inner-left-title2 {
+    margin-left: 90px;
+}
+/*.drinks-section1-inner{
+    margin-left: -20%;
+}*/
+.croissants-left-div {
+    margin-left: 0px;
+}
+
+
+
+/*from-1015-to-915*/
+@media (max-width:1015px){
+
+.drinks-section2-inner {
+    width: 100%;
+    margin-left: -5%;
+}
+.drink1, .drink2, .drink3 {
+    width: 250px;
+    height: 480px;
+}
+.third-section-inner {
+    display: block;
+    max-width: 940px;
+}
+.third-section-inner-left-title2 {
+    width: 660px;
+    font-size: 40px;
+}
+.third-section-inner-left {
+    margin-top: -15px;
+}
+
+.third-section {
+    margin-bottom: 115px;
+ }
+ .third-section-inner-right {
+    margin-left: 30%;
+ }
+ .buy-img1 {
+    margin-left: 20px;
+ }
+.croissants-img {
+    right: -130px;
+}
+}
+
+/*from-915-to-850*/
+@media (max-width:915px){
+.drinks-section2-inner {
+    margin-left: -10%;
+}
+.drink1, .drink2, .drink3 {
+    width: 220px;
+    height: 480px;
+}
+.get-delivery1, .get-delivery2, .get-delivery3{
+	width: 185px;
+}
+}
+
+
+
+/*from-850-to-815*/
+@media (max-width:850px){
+.coffe-shop-logo {
+    width: 65px;
+    float: left;
+    margin-left: 30px;
+ }
+.croissants-title {
+    font-size: 50px;
+ }
+ .croissants-title2 {
+    font-size: 20px;
+ }
+ .p4 {
+    width: 215px;
+ }
+ .buy-title {
+    font-size: 50px;
+ }
+ .buy-img1 {
+    width: 520px;
+}
+.drinks-section2-inner {
+    margin-left: -10%;
+}
+.drink1, .drink2, .drink3 {
+    width: 220px;
+    height: 480px;
+}
+.get-delivery1, .get-delivery2, .get-delivery3{
+	width: 185px;
+}
+.top-section-inner-title1 {
+    margin-left: 0px;
+}
+.top-section-inner-title2 {
+    margin-left: 0px;
+}
+}
+
+
+
+
+/*from-815-to-755*/
+@media (max-width:815px){
+
+.top-section-inner2-1 {
+    margin-left: 165px;
+}
+.drinks-section2-inner {
+    margin-left: -15%;
+}
+
+.third-section-p1 {
+    width: 55%;
+}
+.third-section-inner-left {
+    width: 100%
+ }
+.third-section-inner-left-title2 {
+    margin-left: 75px;
+    font-size: 29px;
+}
+.buy-img1 {
+    width: 485px;
+    margin-top: 25px;
+}
+.buy-right-div {
+    margin-left: 55px;
+}
+.buy-title {
+    font-size: 40px;
+}
+.buy-title2 {
+    font-size: 15px;
+}
+.croissants-outer {
+    margin-bottom: 30px;
+}
+.croissants-img {
+    margin-left: -10%;
+}
+.third-section-inner-left-title2 {
+    width: 70%;
+    font-size: 28px;
+}
+
+
+}
+
+
+
+
+
+/*from-755-to-630*/
+@media (max-width:755px){
+
+.main-menu {
+    width: 100%;
+}
+
+.top-section-inner2-1 {
+    margin-left: 0px;
+    margin: 0 auto;
+}
+.top-section-inner2-2 {
+    width: 100%;
+    margin-top: -115px;
+}
+.top-section-inner2-main {
+    display: block;
+    width: 100%;
+}
+.top-section-inner2-1 {
+    margin-left: 0;
+}
+.video-link {
+    width: 100%;
+}
+.top-section-inner2-1 {
+    display: block;
+    margin-top: 0px;
+    width: 100%;
+    text-align: center;
+}
+.top-section-inner2-2 {
+    width: 100%;
+    margin-top: 30px;
+}
+.top-section-inner2-2 {
+    text-align: center;
+}
+.drinks-section-part-2 {
+    width: 99%;
+}
+.drinks-section2-inner {
+    display: block;
+    margin-left: -3px;
+}
+.drink1, .drink2, .drink3 {
+    margin: 0 auto;
+    width: 97%;
+    margin-bottom: 20px;
+}
+.drink1-p, .drink2-p, .drink3-p {
+    font-size: 16px;
+    width: 100%; 
+}
+.cappuccino, .latte, .dark-coffe {
+    width: 260px;
+}
+.get-delivery1, .get-delivery2, .get-delivery3 {
+    width: 90%;
+}
+.buy-for-home-part {
+    width: 98%;
+    display: block;
+    min-height: 895px;
+}
+.buy-img1 {
+    width: 660px;
+    margin-left: 60px;
+}
+.buy-right-div {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    margin-top: -81px;
+}
+.buy-title {
+    font-size: 60px;
+}
+.buy-title:after {
+
+    left: 50%;
+    margin-left: -30px;
+}
+.buy-title2 {
+    font-size: 20px;
+}
+.p4 {
+    width: 100%;
+}
+.third-section-inner-left-title2 {
+    width: 580px;
+    font-size: 30px;
+}
+.croissants {
+    width: 100%;
+    display: block;
+}
+.croissants-left-div {
+    width: 98%;
+    text-align: center;
+}
+.croissants-img {
+    position: relative;
+    margin-left: -100px;
+}
+.croissants-right-div {
+    width: 100%;
+}
+.croissants-title {
+    font-size: 70px;
+}
+.croissants-title:after {
+    left: 50%;
+    margin-left: -35px;
+}
+.croissants-title2 {
+    font-size: 30px;
+}
+.forth-section-inner1-left {
+    display: block;
+    width: 100%;
+    min-height: 930px;
+}
+.left-left {
+    width: 100%;
+    padding-top: 30px;
+}
+.left-right {
+    width: 100%;
+}
+.left-right-img {
+	margin-left: auto;
+    margin-top: -5px;
+}
+.left-left-title {
+    font-size: 70px;
+    width: 235px;
+}
+.left-left-p {
+    width: 85%;
+    margin-bottom: 30px;
+}
+.footer-inner {
+    width: 92%;
+}
+.footer-inner1 {
+    width: 22%;
+}
+.footer-p {
+    width: 175px;
+}
+}
+
+
+
+
+
+/*from-630-to-552*/
+@media (max-width: 630px){
+
+.third-section-inner-left-title2 {
+    width: 70%;
+    font-size: 23px;
+}
+.third-section-inner-right {
+    margin-left: 20%;
+}
+.top-section-inner-title1 {
+    margin-left: 135px;
+}
+.top-section-inner-title2 {
+    font-size: 53px;
+    margin-left: 130px;
+}
+.top-section-inner2-main {
+    margin-top: -75px;
+}
+.main-menu{
+	margin-left: 0px;
+}
+.menulist li {
+    font-size: 13px;
+}
+.croissants-img {
+    width: 90%;
+    margin-left: 0px;
+    margin-right: 0px;
+    min-height: unset;
+    right: unset;
+    margin: 0 auto;
+}
+}
+.buy-img1 {
+    width: 615px;
+    margin-left: 0px;
+}
+.footer-inner {
+    width: 92%;
+    display: block;
+}
+.footer-inner1{
+	width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+.footer-p {
+    width: 100%;
+}
+.social-media {
+    justify-content: center;
+}
+.footer-inner2 {
+    text-align: center;
+    margin-right: 0px;
+}
+.footer-inner3 {
+    text-align: center;
+}
+.left-right-img {
+    width: 530px;
+    margin-top: 20px;
+}
+.right-inner-p-1 {
+    margin-top: 25px;
+}
+.right-inner-p-2 {
+    margin-bottom: 125px;
+}
+.google-maps-link {
+    float: left;
+}
+.right-inner-p-2 {
+    margin-bottom: 185px;
+}
+.third-section-inner-left {
+    width: 100%;
+    margin-left: 40px;
+}
+.top-section-inner-title1 {
+    margin-left: 60px;
+}
+.top-section-inner-title2 {
+    font-size: 53px;
+    margin-left: 60px;
+}
+}
+
+
+
+
+
+/*from-552-to-480*/
+@media (max-width: 552px){
+.coffe-shop-logo {
+    width: 45px;
+    margin-top: 5px;
+}
+.top-section-inner1-1 {
+    margin-left: 0px;
+}
+.top-section-inner-title1 {
+    margin-left: 25px;
+}
+.top-section-inner-title2 {
+    font-size: 45px;
+    width: 400px;
+    margin-left: 25px;
+}
+.menulist li {
+    margin-left: 13px;
+}
+.p4 {
+    width: 95%;
+    margin: 0 auto;
+}
+.top-section-img-1 {
+    width: 490px;
+}
+.drink1-p, .drink2-p, .drink3-p {
+    font-size: 12px;
+}
+.buy-left-div {
+    width: 100%;
+    text-align: center;
+}
+.buy-img1 {
+    width: 490px;
+    margin-left: 50px;
+}
+.buy-title {
+    font-size: 45px;
+}
+.third-section-inner-right-p {
+    width: 95%;
+}
+.third-section-inner-right-title1 {
+    font-size: 18px;
+}
+.third-section-inner-right {
+    margin-left: 18%;
+}
+
+.top-section-img-1 {
+    /*width: 570px;*/
+    width: 90%;
+    margin-top: 60px;
+}
+.third-section-inner-left {
+    margin-left: 25px;
+}
+.forth-section-inner1-left {
+    min-height: 865px;
+}
+
+
+
+
+/*from-480-to-400*/
+@media (max-width: 480px){
+.menulist li {
+    margin-left: 13px;
+}
+.menulist li {
+    margin-left: -3px;
+}
+/*.top-section-img-1 {
+    width: 470px;
+}*/
+.buy-img1 {
+    width: 480px;
+    margin-left: 0px; 
+}
+/*.croissants-img {
+    margin-left: -185px;
+}*/
+}
+
+
+/*from-400-to-340*/
+@media (max-width: 400px){
+
+.top-section-inner-title2 {
+    font-size: 30px;
+    width: 300px;
+    margin-left: -20px;
+}
+.top-section-inner-title1 {
+    margin-left: -20px;
+    font-size: 25px;
+}
+.top-section-inner2-main {
+    margin-top: -160px;
+}
+.drinks-section-title1 {
+    font-size: 60px;
+}
+.croissants-title {
+    font-size: 60px;
+}
+.forth-section-inner1-left {
+    min-height: 770px;
+}
+.left-right-img {
+    width: 400px;
+}
+/*.top-section-img-1 {
+    width: 300px;
+}*/
+.buy-for-home-part {
+    min-height: 540px;
+}
+.buy-img1 {
+    width: 280px;
+}
+.left-left-title2 {
+    font-size: 20px;
+}
+.third-section-inner-left-title2 {
+    width: 85%;
+    margin-left: 0px;
+ }
+ .third-section-inner-left-title1 {
+    margin-left: 0px;
+}
+.third-section-title1 {
+    font-size: 60px;
+}
+.third-section-p1 {
+    width: 55%;
+}
+.third-section-inner-right {
+    margin-left: 8%;
+}
+.menulist li {
+    margin-left: -10px;
+}
+.coffe-shop-logo {
+    width: 35px;
+    margin-right: 0px;
+}
+.top-section-inner1-1 {
+    margin-left: 50px;
+}
+.video-link {
+    width: 99%;
+}
+.right-inner-p-1 {
+    width: 230px;
+    font-size: 13px;
+}
+
+}
+
+
+
+/*from-340px-to-*/
+@media (max-width: 340px){
+
+.top-section-inner-title2 {
+    font-size: 20px;
+    width: 100%;
+}	
+.top-section-inner-title1 {
+    font-size: 15px;
+}
+.drinks-section-title1 {
+    font-size: 45px;
+}
+.p1 {
+    font-size: 12px;
+}
+.video-link a {
+    font-size: 12px;
+}
+.cappuccino, .latte, .dark-coffe {
+    width: 200px;
+    margin-left: -20px;
+}
+.drink-name {
+    font-size: 20px;
+}
+.price {
+    font-size: 16px;
+}
+.all-drinks-link {
+    font-size: 12px;
+}
+.croissants-title {
+    font-size: 25px;
+}
+.croissants-title {
+    font-size: 16px;
+}
+.croissants-title2 {
+    font-size: 14px;
+}
+.p4 {
+    width: 75%;
+    font-size: 12px;
+}
+.buy-img1 {
+    width: 100%;
+}
+.buy-price {
+    font-size: 13px;
+ }
+
+
+
+
+
+
+}
